@@ -12,7 +12,7 @@ Anonymized Percept data are available on [Google drive] (https://drive.google.co
 You can request access from me.
 
 ## Analysis
-For the power spectral density analysis, time domain data is converted into the frequency domain using `welch()` 
+For the power spectral density analysis, time-domain data is converted into the frequency domain using `welch()` 
 with a hann window, spanning frequencies in a 1Hz sampling resolution until the Nyquist frequency is reached.
 
 ## License
