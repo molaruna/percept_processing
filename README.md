@@ -8,7 +8,7 @@ This code uses the current version of Python on Google Colab. Currently, this ve
 
 ## Data
 Neural electrophysiological data are derived from the BrainSense Percept PC neurostimulator (Medtronic). 
-Anonymized Percept data are available on [Google drive](https://drive.google.com/drive/folders/1TzThqu1ECBqDxZUbRWec5stw4LztcuOy?usp=sharing) and [Rune Labs](https://app.runelabs.io/patients).
+Anonymized Percept data are available on the [Rune Labs platform](https://app.runelabs.io/patients).
 You can request access from me.
 
 ## Analysis
