@@ -4,7 +4,7 @@ This code processes JSON files for streamed neural data using Medtronic's Percep
 with BrainSense Technology for time-series and spectral analyses. 
 
 ## Getting started
-This code uses the current version of Python on Google Colab. As of February 2022, this version is Python 3.6.9. 
+This code uses the current version of Python on Google Colab. When written, this version was Python 3.6.9. 
 
 ## Data
 Neural electrophysiological data are derived from the BrainSense Percept PC neurostimulator (Medtronic). 
