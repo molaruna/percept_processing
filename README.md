@@ -12,8 +12,7 @@ Anonymized Percept data are available on the [Rune Labs platform](https://app.ru
 You can request access from me.
 
 ## Analysis
-For the power spectral density analysis, time-domain data is converted into the frequency domain using `welch()` 
-with a hann window, spanning frequencies in a 1Hz sampling resolution until the Nyquist frequency is reached.
+For the power spectral density analysis, time-domain data is converted into the frequency domain by computing the power spectral density with a hann windowing function, and spanning frequencies with a bin width of 1Hz until the Nyquist frequency is reached.
 
 ## License
 This software is open source and under an MIT license.
