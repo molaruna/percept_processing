@@ -12,7 +12,7 @@ Anonymized Percept data are available on the [Rune Labs platform](https://app.ru
 You can request access from me.
 
 ## Analysis
-For the time-series plots, voltage from the neural sensing channels and stimulation amplitude from the stimulating contact are visualized.
+For the time-series plots, voltage from the neural sensing channel(s) and stimulation amplitudes from the stimulating contact(s) are visualized.
 For the power spectral density analysis, time-domain data is converted into the frequency domain by computing the power spectral density with a hann windowing function, and spanning frequencies with a bin width of 1Hz until the Nyquist frequency is reached.
 
 ## License
